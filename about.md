@@ -1,4 +1,12 @@
-# About
+# About (Me)
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am a BEng/BMath student at the University of Queensland that is just starting to learn deep learning and experimenting with FastAI alongside a course on image recognition, ELEC4630.
 
+### Likes
+ - Emacs
+ - Guix
+ - Liquorice
+### Dislikes
+ - Visual Studio Code
+ - Docker
+ - Green beans
