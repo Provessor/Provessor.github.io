@@ -1,7 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Blog
+I am an BEng/BMath student at the University of Queensland. This little blog has been completed as part of one of my courses ELEC4630, on image recognition.
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+The first few posts here will follow my journey getting setup with a Jekyll blog and being introduced to the world of fastai and deep learning.
