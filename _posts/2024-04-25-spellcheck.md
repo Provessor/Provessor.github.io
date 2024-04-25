@@ -13,4 +13,4 @@ Possible. Requies installing extensions such as [Spell Right](https://marketplac
 Just works out of the box. Depends on an external program, historically this was `ispell` but more recently has been either `aspell` or `hunspell`. Notably `hunspell` seems to be favoured in many places such as Firefox and Chrome because of its active development history and more permissive licencing[^1].
 
 
-[^1]: https://battlepenguin.com/tech/aspell-and-hunspell-a-tale-of-two-spell-checkers/
+[^1]: [Aspell and Hunspell: A Tale of Two Spell Checkers](https://battlepenguin.com/tech/aspell-and-hunspell-a-tale-of-two-spell-checkers/)
