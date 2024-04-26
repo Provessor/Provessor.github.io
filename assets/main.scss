@@ -4,9 +4,13 @@
 
 @import "{{ site.theme }}";
 
-.post p {
+.post p, a {
         font-family: "Libertinus Serif", serif !important;
         hyphens: auto;
+}
+
+.site-title {
+        font-family: "Libertinus Serif", serif !important;
 }
 
 .post h1, h2, h3, h4 {
@@ -17,7 +21,7 @@
         background-color: rgb(255, 241, 229) !important;
 }
 
-header .site-header {
+header[role=banner] .site-header {
         border-top: 5px solid black !important;
         border-bottom: 1px solid black !important;
 }
