@@ -5,12 +5,12 @@
 @import "{{ site.theme }}";
 
 body {
-        font-family: "Libertinus Serif", serif;
+        font-family: "Libertinus Serif", serif !important;
         hyphens: auto;
 }
 
 h1, h2, h3, h4 {
-        font-family: "Libertinus Sans", sans-serif;
+        font-family: "Libertinus Sans", sans-serif !important;
 }
 
 .post img {
