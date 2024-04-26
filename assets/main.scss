@@ -48,9 +48,11 @@ footer.site-footer {
 
 .footnotes::before {
         display: block;
-        content: "Footnotes:";
-        font-family: "Libertinus Serif", serif !important;
+        content: "footnotes:";
+        font-family: "Libertinus Serif", serif;
+        font-variant: small-caps;
         hyphens: auto;
+        margin: 0px auto;
 }
 
 .post img {
