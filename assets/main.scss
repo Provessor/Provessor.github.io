@@ -30,9 +30,9 @@ ul > li, ol > li {
         background-color: rgb(255, 241, 229) !important;
 }
 
-header[role=banner] .site-header {
-        border-top: 5px solid black !important;
-        border-bottom: 1px solid black !important;
+.site-header {
+        border-top: 5px solid #000000 !important;
+        border-bottom: 1px solid #000000 !important;
 }
 
 .footnotes::before {
