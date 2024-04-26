@@ -40,6 +40,10 @@ header[role=banner].site-header {
         border-bottom: 1px solid #262a33 !important;
 }
 
+footer.site-footer {
+        border-top: 1px solid #262a33 !important;
+}
+
 .footnotes::before {
         display: block;
         content: "Footnotes:";
