@@ -14,11 +14,11 @@ a {
 }
 a:after {
         content: "\FEFF°";
-        color: #262a33;
+        color: #262a33 !important;
         margin-left: 0.1em;
 }
 a:hover {
-        color: #262a33;
+        color: #262a33 !important;
         text-decoration: none !important;
 }
 
