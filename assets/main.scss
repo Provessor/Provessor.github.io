@@ -13,6 +13,12 @@
         font-family: "Libertinus Sans", sans-serif !important;
 }
 
+.footnotes::before {
+        display: block;
+        content: "Footnotes:";
+        border-top: 1px solid #e8e8e8;
+}
+
 .post img {
         display: block;
         border:1px solid #021a40;
