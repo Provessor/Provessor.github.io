@@ -49,6 +49,8 @@ footer.site-footer {
 .footnotes::before {
         display: block;
         content: "Footnotes:";
+        font-family: "Libertinus Serif", serif !important;
+        hyphens: auto;
 }
 
 .post img {
