@@ -35,8 +35,11 @@ header[role=banner].site-header {
         border-bottom: 1px solid #262a33 !important;
 }
 
+main.page-content {
+        border-bottom: 1px solid #262a33 !important;
+}
 footer.site-footer {
-        border-top: 1px solid #262a33 !important;
+        border-top: none !important;
 }
 
 .footnotes::before {
