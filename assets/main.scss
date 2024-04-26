@@ -4,7 +4,7 @@
 
 @import "{{ site.theme }}";
 
-.post p, .post a, .home p, .home a {
+.post p, .post li, .home p, .home a {
         font-family: "Libertinus Serif", serif !important;
         hyphens: auto;
 }
