@@ -100,6 +100,13 @@ footer > .footer-col-wrapper {
   color: light-grey;
 }
 
+.language-python { border-left: 1px solid lightcoral; }
+
+.language-python + .language-plaintext {
+        border-left: 1px solid grey;
+        margin-left: 1rem !important;
+}
+
 // for Jupyter Notebook HTML Code Cells from https://www.fast.ai/public/css/hyde.css
 
 .input_area pre, .input_area div {
