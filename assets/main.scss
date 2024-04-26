@@ -17,6 +17,10 @@ a:after {
         color: #262a33;
         margin-left: 0.1em;
 }
+a:hover {
+        color: #262a33;
+        text-decoration: none !important;
+}
 
 ul > li, ol > li {
         font-family: "Libertinus Serif", serif !important;
