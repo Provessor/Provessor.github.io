@@ -17,6 +17,11 @@
         background-color: rgb(255, 241, 229) !important;
 }
 
+.site-header {
+        border-top: 5px solid black !important;
+        border-bottom: 1px solid black !important;
+}
+
 .footnotes::before {
         display: block;
         content: "Footnotes:";
