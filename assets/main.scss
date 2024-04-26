@@ -27,11 +27,10 @@ ul > li, ol > li {
         hyphens: auto;
 }
 
-.language-plaintext, .highlight, tt, code, samp {
+.language-plaintext, .highlight, tt, code, samp, .language-python + .language-plaintext pre {
         font-family: "Libertinus Mono", monospace !important;
         border: none;
         background-color: rgb(255, 241, 229) !important;
-        background: none !important;
 }
 
 .site-title {
