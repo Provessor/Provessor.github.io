@@ -46,6 +46,15 @@ footer.site-footer {
         border-top: none !important;
 }
 
+footer > .footer-heading {
+        display: none !important;
+}
+footer > .footer-col-wrapper {
+        font-family: "Libertinus Serif", serif !important;
+        hyphens: auto;
+        color: black;
+}
+
 .footnotes::before {
         display: block;
         content: "footnotes:";
