@@ -29,6 +29,8 @@ ul > li, ol > li {
 
 .language-plaintext, .highlight, tt, code, samp {
         font-family: "Libertinus Mono", monospace !important;
+        border: none;
+        background-color: none;
 }
 
 .site-title {
