@@ -32,11 +32,9 @@ ul > li, ol > li {
         border: none;
         background-color: rgb(255, 241, 229) !important;
 }
-/*code {
-        padding: 0px !important;
-        padding-left: -1px !important;
-        padding-right: 2px !important;
-}*/
+code {
+        padding: 0px 1px !important;
+}
 
 .site-title {
         font-family: "Libertinus Serif", serif !important;
