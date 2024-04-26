@@ -14,6 +14,10 @@ ul > li, ol > li {
         hyphens: auto;
 }
 
+.language-plaintext code {
+        font-family: "Libertinus Mono", monospace !important;
+}
+
 .site-title {
         font-family: "Libertinus Serif", serif !important;
 }
