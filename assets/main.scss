@@ -30,7 +30,7 @@ ul > li, ol > li {
         background-color: rgb(255, 241, 229) !important;
 }
 
-.site-header {
+header[role=banner].site-header {
         border-top: 5px solid #000000 !important;
         border-bottom: 1px solid #000000 !important;
 }
