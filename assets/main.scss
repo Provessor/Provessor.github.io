@@ -6,24 +6,29 @@
 
 .post p, .post li, .home p, .home a {
         font-family: "Libertinus Serif", serif !important;
+        color: #66605c;
         hyphens: auto;
 }
 
 ul > li, ol > li {
         font-family: "Libertinus Serif", serif !important;
+        color: #66605c;
         hyphens: auto;
 }
 
 .language-plaintext, .highlight, tt, code, samp {
         font-family: "Libertinus Mono", monospace !important;
+        color: #66605c;
 }
 
 .site-title {
         font-family: "Libertinus Serif", serif !important;
+        color: #66605c;
 }
 
 .post h1, h2, h3, h4 {
         font-family: "Libertinus Sans", sans-serif !important;
+        color: #66605c;
 }
 
 .site-header, .page-content, .site-footer {
@@ -31,8 +36,8 @@ ul > li, ol > li {
 }
 
 header[role=banner].site-header {
-        border-top: 5px solid #000000 !important;
-        border-bottom: 1px solid #000000 !important;
+        border-top: 5px solid #262a33 !important;
+        border-bottom: 1px solid #262a33 !important;
 }
 
 .footnotes::before {
