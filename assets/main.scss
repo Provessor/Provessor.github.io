@@ -44,6 +44,10 @@ header[role=banner].site-header {
         border-bottom: 1px solid #262a33 !important;
 }
 
+footer {
+        display: none !important;
+}
+
 footer.site-footer:before {
         content: '';
         display: inherit;
