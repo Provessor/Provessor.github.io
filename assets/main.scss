@@ -35,7 +35,10 @@ header[role=banner].site-header {
         border-bottom: 1px solid #262a33 !important;
 }
 
-main.page-content {
+footer.site-footer:before {
+        content: '';
+        display: inherit;
+        width: 60%;
         border-bottom: 1px solid #262a33 !important;
 }
 footer.site-footer {
